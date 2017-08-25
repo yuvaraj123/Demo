@@ -13,6 +13,7 @@ import java.util.Scanner;
      //Prompt the user to enter year
      System.out.print("Enter full year (YYYY): ");
      System.out.print("yuvi");
+     System.out.println("syso");
      int year = scan.nextInt();
  
      // Prompt the user to enter month
