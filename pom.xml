@@ -18,5 +18,9 @@
 <build>
    <finalName>PrintCalender</finalName>
  </build>  
-  
+
+ <new>
+    <value> commit </value>
+  </new>
+
 </project>
