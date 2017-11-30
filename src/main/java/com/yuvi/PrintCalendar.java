@@ -16,6 +16,7 @@ import java.util.Scanner;
      System.out.println("syso");
      int year = scan.nextInt();
  
+    System.out.println("check");
      // Prompt the user to enter month
      System.out.print("Enter month in number between 1 and 12(MM): ");
 	 
