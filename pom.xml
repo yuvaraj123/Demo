@@ -19,34 +19,4 @@
    <finalName>PrintCalender</finalName>
  </build>  
 
- <new>
-    <value> commit </value>
-  </new>
-
-  <second>
-	<value> ciommit1 </value>
-</second>
-
-<third>
-    <value> add </value>
- </third>
-
- <four>
-    <value> add </value>
-  </four>
-
-  <five>
-     <value> adding </value>
-   </five>
-
-   <six>
-   <seven>
-   <eight>
-	   <nine>
-		   <tweleve>
-		<thirteen>
-		   <ten>
-			   <eleven>
-				   <fourteen>
-		<fifteen>
 </project>
